@@ -51,3 +51,47 @@ body{
     margin-left: 10%;
 }
 /* (section1 done */
+/* (section2) */
+#p3{
+    text-align: center;
+    font-size: 50px;
+    font-weight: 800;
+}
+.span1{
+    color: orange;
+}
+.section2 img{
+    width: 60%;
+}
+.section2{
+    margin-left: 15%;
+}
+.box1{
+    width: 25%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    border: 5px white;
+    border-radius: 10%;
+    background-color: wheat;
+    margin-right: 5%;
+}
+.box2{
+    width: 25%;
+    padding-left:2% ;
+    padding-bottom: 2%;
+    border: 5px white;
+    border-radius: 10% ;
+    background-color: yellowgreen;
+    margin-right: 5%;
+}
+.box3{
+    width: 25%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    border: 5px white;
+    border-radius: 10%;
+    background-color: antiquewhite;    
+}
+.section2{
+    display: flex;
+}
