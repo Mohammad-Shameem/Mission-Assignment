@@ -193,4 +193,56 @@ body{
 .section4{
     margin-bottom: 10%;
 }
-/* (section4 Done */
+/* (section4 Done 0*/
+/* (section5) */
+.section5{
+    margin-left: 15%;
+}
+.div4 h1{
+    font-weight: 50px;
+    text-align: center;
+}
+.stop{
+    color: red;
+}
+.plastic{
+    color: red;
+}
+.div5{
+    width: 50%;
+}
+.section5 img{
+    width: 70%;
+}
+.section5{
+    margin-top: 5%;
+    display: flex;
+    text-align: justify;
+}
+.section5 p{
+    margin-right: 15%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.stop-button{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    background-color:red;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 5px;
+
+}
+.stop2{
+    color: red;
+    font-weight: 1000;
+    
+}
+    
+.section5{
+    margin-bottom: 15%;
+}
+/* (section5 Done) */
