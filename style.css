@@ -246,3 +246,18 @@ body{
     margin-bottom: 15%;
 }
 /* (section5 Done) */
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    border-radius: 10px;
+}
+footer p{
+    font-weight: 800;
+    font-size: larger;
+}
+.last{
+    color: orange;
+}
