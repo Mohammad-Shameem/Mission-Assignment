@@ -4,6 +4,9 @@ body{
 #id1{
     margin-top: 10%;
 }
+.section1 p{
+    margin-bottom: 5%;
+}
 .div1{   
     width: 50%;
 }
@@ -95,3 +98,51 @@ body{
 .section2{
     display: flex;
 }
+.section2{
+    margin-bottom: 5%;
+}
+/* (section2 complete) */
+/* section3) */
+.section3 p{
+    text-align: left;
+}
+.div2{
+    width: 50%; 
+}
+
+/* .section3{
+    margin-left: 15%;
+} */
+.div2 img{
+    width: 90%;
+    margin-left: 46%;
+}
+.section3{
+    display: flex;
+}
+.again-div{
+    margin-right: 20%;
+    margin-top: 5%;
+    margin-left: 15%;
+}
+.documents-button{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    background-color:tomato;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    border-radius: 5px;
+}
+.div2 p{
+    margin-bottom: 5%;
+}
+.section3{
+    background-image: url(shape-1.png);
+   background-repeat: no-repeat;
+    background-position: right 93% bottom 45%;
+    background-size: 20%; 
+} 
+
